@@ -2,5 +2,5 @@
 # An entry is a publisher domain, or the URL of another domains.txt to include.
 # head: 2026-08-16T00:00:00Z
 
-# domains.txt file for all ION NPs who want to use "self published file" process for dedi registries
+# domains.txt file for all ION NPs who want to use "self published file" process for dedi registries.
 https://dedi.ion.id/domains.txt
